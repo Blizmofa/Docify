@@ -1,0 +1,6 @@
+{
+    "project_name": "KerberosChatRooms",
+    "repo_path": "/home/dev/Dev/KerberosChatRooms",
+    "exclude": ["setup.py", ".gitignore", "srv.info"]
+    
+}
